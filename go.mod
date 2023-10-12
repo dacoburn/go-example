@@ -1,1 +1,5 @@
-require rsc.io/quote v1.5.2
+module github.com/digitalocean/sample-golang
+
+go 1.13
+
+require github.com/gofrs/uuid v3.3.0+incompatible
